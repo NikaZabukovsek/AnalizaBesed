@@ -13,3 +13,9 @@ Besedilo lahko tudi ~~prečrtamo~~ ali pa ga oblikujemo kot kodo:
 def f(x):
     return 21
 ```
+
+# Avtorji
+
+- Janez Novak
+- Miško Kranjec
+- Klemen Klemen
