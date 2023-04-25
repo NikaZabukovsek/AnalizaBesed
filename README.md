@@ -11,7 +11,7 @@ Besedilo lahko tudi ~~prečrtamo~~ ali pa ga oblikujemo kot kodo:
 
 ```
 def f(x):
-    return 21
+    return 21 + x
 ```
 
 # Avtorji
